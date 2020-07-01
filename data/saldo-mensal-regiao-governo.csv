@@ -1,0 +1,216 @@
+﻿mes;regiao_governo;saldo
+1;Adamantina;    116
+1;Andradina;    668
+1;Araçatuba;   1184
+1;Araraquara;    635
+1;Assis;    559
+1;Avaré;      9
+1;Barretos;  -2243
+1;Bauru;    890
+1;Botucatu;    229
+1;Bragança Paulista;    282
+1;Campinas;   2757
+1;Caraguatatuba;   -255
+1;Catanduva;   1170
+1;Cruzeiro;     75
+1;Dracena;    168
+1;Fernandópolis;   -168
+1;Franca;   2312
+1;Guaratinguetá;   -201
+1;Itapetininga;    107
+1;Itapeva;   -223
+1;Jales;      8
+1;Jaú;      8
+1;Jundiaí;    238
+1;Limeira;   -170
+1;Lins;    206
+1;Marília;    388
+1;Ourinhos;   -792
+1;Piracicaba;    471
+1;Presidente Prudente;   -128
+1;Registro;     -9
+1;Ribeirão Preto;   3602
+1;Rio Claro;    920
+1;Santos;  -1416
+1;São Carlos;    614
+1;São João da Boa Vista;     54
+1;São Joaquim da Barra;    399
+1;São José do Rio Preto;   1513
+1;São José dos Campos;    832
+1;São Paulo;  25131
+1;Sorocaba;   1513
+1;Taubaté;   -319
+1;Tupã;    548
+1;Votuporanga;     48
+2;Adamantina;    845
+2;Andradina;    396
+2;Araçatuba;   1615
+2;Araraquara;  -3048
+2;Assis;    860
+2;Avaré;   -101
+2;Barretos;   -854
+2;Bauru;   2113
+2;Botucatu;    333
+2;Bragança Paulista;   1416
+2;Campinas;   5630
+2;Caraguatatuba;   -357
+2;Catanduva;   1112
+2;Cruzeiro;     25
+2;Dracena;    224
+2;Fernandópolis;    359
+2;Franca;   2348
+2;Guaratinguetá;    941
+2;Itapetininga;    112
+2;Itapeva;    213
+2;Jales;    -97
+2;Jaú;    515
+2;Jundiaí;   1386
+2;Limeira;    859
+2;Lins;    314
+2;Marília;    784
+2;Ourinhos;   -259
+2;Piracicaba;    797
+2;Presidente Prudente;    369
+2;Registro;    430
+2;Ribeirão Preto;   3408
+2;Rio Claro;    904
+2;Santos;    529
+2;São Carlos;   3796
+2;São João da Boa Vista;    838
+2;São Joaquim da Barra;    392
+2;São José do Rio Preto;   2245
+2;São José dos Campos;   1141
+2;São Paulo;  42815
+2;Sorocaba;   2286
+2;Taubaté;    138
+2;Tupã;    522
+2;Votuporanga;    632
+3;Adamantina;    230
+3;Andradina;   1350
+3;Araçatuba;    613
+3;Araraquara;  -1098
+3;Assis;     25
+3;Avaré;   -127
+3;Barretos;  -1105
+3;Bauru;    365
+3;Botucatu;   -683
+3;Bragança Paulista;  -1302
+3;Campinas;  -8844
+3;Caraguatatuba;  -1630
+3;Catanduva;   1153
+3;Cruzeiro;    -29
+3;Dracena;    592
+3;Fernandópolis;    297
+3;Franca;   -296
+3;Guaratinguetá;   -853
+3;Itapetininga;   -252
+3;Itapeva;   -602
+3;Jales;   -136
+3;Jaú;   -284
+3;Jundiaí;  -1583
+3;Limeira;   -696
+3;Lins;    287
+3;Marília;   -252
+3;Ourinhos;   -128
+3;Piracicaba;    311
+3;Presidente Prudente;   -634
+3;Registro;   -255
+3;Ribeirão Preto;  -1240
+3;Rio Claro;   -250
+3;Santos;  -3574
+3;São Carlos;  -2220
+3;São João da Boa Vista;    598
+3;São Joaquim da Barra;    605
+3;São José do Rio Preto;    306
+3;São José dos Campos;  -3099
+3;São Paulo; -56108
+3;Sorocaba;  -2884
+3;Taubaté;  -1144
+3;Tupã;    522
+3;Votuporanga;    233
+4;Adamantina;   -132
+4;Andradina;    297
+4;Araçatuba;  -2682
+4;Araraquara;  -2473
+4;Assis;   -139
+4;Avaré;   -315
+4;Barretos;   -600
+4;Bauru;  -4026
+4;Botucatu;   -920
+4;Bragança Paulista;  -3803
+4;Campinas; -22575
+4;Caraguatatuba;  -2023
+4;Catanduva;   -605
+4;Cruzeiro;   -209
+4;Dracena;     21
+4;Fernandópolis;   -617
+4;Franca;  -6452
+4;Guaratinguetá;  -1765
+4;Itapetininga;  -2108
+4;Itapeva;  -1688
+4;Jales;   -491
+4;Jaú;   -960
+4;Jundiaí;  -6351
+4;Limeira;  -3839
+4;Lins;    -58
+4;Marília;  -1155
+4;Ourinhos;   -975
+4;Piracicaba;  -2074
+4;Presidente Prudente;  -2004
+4;Registro;   -726
+4;Ribeirão Preto;  -6765
+4;Rio Claro;  -1746
+4;Santos;  -6389
+4;São Carlos;  -1322
+4;São João da Boa Vista;  -1433
+4;São Joaquim da Barra;   -492
+4;São José do Rio Preto;  -4363
+4;São José dos Campos;  -6160
+4;São Paulo;-157214
+4;Sorocaba;  -9982
+4;Taubaté;  -3158
+4;Tupã;   -545
+4;Votuporanga;  -1388
+5;Adamantina;     26
+5;Andradina;   -345
+5;Araçatuba;  -1784
+5;Araraquara;   1016
+5;Assis;   -479
+5;Avaré;    -54
+5;Barretos;   1355
+5;Bauru;  -1057
+5;Botucatu;     41
+5;Bragança Paulista;  -1431
+5;Campinas; -10348
+5;Caraguatatuba;   -788
+5;Catanduva;   -980
+5;Cruzeiro;   -225
+5;Dracena;     88
+5;Fernandópolis;   -241
+5;Franca;  -4319
+5;Guaratinguetá;   -990
+5;Itapetininga;   -389
+5;Itapeva;   -844
+5;Jales;   -237
+5;Jaú;   -928
+5;Jundiaí;  -3566
+5;Limeira;  -1738
+5;Lins;    -57
+5;Marília;   -283
+5;Ourinhos;   -451
+5;Piracicaba;  -1640
+5;Presidente Prudente;  -1107
+5;Registro;   -575
+5;Ribeirão Preto;  -3988
+5;Rio Claro;   -678
+5;Santos;  -2961
+5;São Carlos;  -1021
+5;São João da Boa Vista;   -494
+5;São Joaquim da Barra;   -117
+5;São José do Rio Preto;  -2420
+5;São José dos Campos;  -2482
+5;São Paulo; -50549
+5;Sorocaba;  -4474
+5;Taubaté;  -1479
+5;Tupã;   -229
+5;Votuporanga;   -763
